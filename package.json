@@ -1,0 +1,27 @@
+{
+  "name": "com.adjoint.plugin",
+  "version": "1.0.0",
+  "displayName": "Adjoint",
+  "description": "Adjoint is a bridge that connects AI assistants to Unity via the MCP (Model Context Protocol). Allows AI clients like Claude Code, Cursor, and VSCode to directly control your Unity Editor for enhanced development workflows.\n\nFeatures automated setup wizard, cross-platform support, and seamless integration with popular AI development tools.\n\nJoin Our Discord: https://discord.gg/y4p8KfzrN4",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/adjointdev/adjoint",
+  "licensesUrl": "https://github.com/adjointdev/adjoint/blob/main/LICENSE",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.2"
+  },
+  "keywords": [
+    "unity",
+    "ai",
+    "llm",
+    "mcp",
+    "model-context-protocol",
+    "mcp-server",
+    "mcp-client",
+    "adjoint"
+  ],
+  "author": {
+    "name": "Adjoint",
+    "email": "ashank@adjoint.pro",
+    "url": "https://adjoint.pro"
+  }
+}
